@@ -1,0 +1,31 @@
+## .NET / C# build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Publish output
+publish/
+*.nupkg
+*.snupkg
+
+## Rider / JetBrains
+.idea/
+
+## VS Code
+.vscode/
+
+## Runtime files generated at runtime
+steam_appid.txt
+games_config.json
+
+## Steamworks DLL (not redistributable per Valve terms)
+steam_api64.dll
+
+## OS
+Thumbs.db
+desktop.ini
+.DS_Store
