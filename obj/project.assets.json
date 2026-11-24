@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GeeNuuSs\\Desktop\\Steam Hour Booster\\SteamPulse.csproj",
+      "projectUniqueName": "C:\\Users\\GeeNuuSs\\Desktop\\Steam-Hour-Booster\\SteamPulse.csproj",
       "projectName": "SteamPulse",
-      "projectPath": "C:\\Users\\GeeNuuSs\\Desktop\\Steam Hour Booster\\SteamPulse.csproj",
+      "projectPath": "C:\\Users\\GeeNuuSs\\Desktop\\Steam-Hour-Booster\\SteamPulse.csproj",
       "packagesPath": "C:\\Users\\GeeNuuSs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GeeNuuSs\\Desktop\\Steam Hour Booster\\obj\\",
+      "outputPath": "C:\\Users\\GeeNuuSs\\Desktop\\Steam-Hour-Booster\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

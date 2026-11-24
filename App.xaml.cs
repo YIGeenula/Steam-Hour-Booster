@@ -21,18 +21,10 @@ namespace SteamPulse
                 }
             }
 
-            // Normal UI Mode — show splash, then open MainWindow
+            // Normal UI Mode
             base.OnStartup(e);
-
-            var splash = new SplashScreen();
-            splash.Show();
-
-            splash.SplashClosed += (_, _) =>
-            {
-                var main = new MainWindow();
-                MainWindow = main;
-                main.Show();
-            };
+            MainWindow = new MainWindow();
+            MainWindow.Show();
         }
     }
 }
