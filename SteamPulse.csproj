@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Resource Include="softwareIcon.ico" />
+    <Resource Include="BrandImage.png" />
   </ItemGroup>
 
   <ItemGroup>
