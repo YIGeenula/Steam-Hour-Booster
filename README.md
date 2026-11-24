@@ -48,8 +48,7 @@
 
 <div align="center">
 
-<!-- If you have a screenshot, place it at docs/screenshot.png -->
-<img src="docs/screenshot.png" alt="SteamPulse UI Preview" width="85%" style="border-radius: 12px; border: 1px solid #232C3D;"/>
+<img src="BrandImage.png" alt="SteamPulse UI Preview" width="85%" style="border-radius: 12px; border: 1px solid #232C3D;"/>
 
 </div>
 
